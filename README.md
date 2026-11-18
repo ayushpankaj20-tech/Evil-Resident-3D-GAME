@@ -6,7 +6,7 @@
 Fight through a haunted village full of skeletons, find the keys, reach the arena — and kill the creature, or get killed.
 
 ### ▶ Play it
-**Play in your browser or download for Windows on itch.io:** https://YOUR-ITCH-NAME.itch.io/evil-resident
+**Play in your browser or download for Windows on itch.io:** https://ayushpankaj20-tech.itch.io/evil-resident
 
 ![Main menu](Docs/screenshots/menu_night.png)
 

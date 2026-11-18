@@ -1,0 +1,52 @@
+# ---- Unity ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# ---- IDE / generated ----
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vsconfig
+
+# ---- build artefacts ----
+*.apk
+*.aab
+*.unitypackage
+*.zip
+crashlytics-build.properties
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- this project ----
+# test screenshots (the README uses Docs/screenshots)
+/Screenshots/
+# Asset Store content may not be shared in a public repo (Unity Asset Store EULA).
+# Get "RPG Poly Pack - Lite" free from the Asset Store and import it into Assets/ThirdParty/RPGPolyPackLite.
+/Assets/ThirdParty/RPGPolyPackLite/
+/Assets/ThirdParty/RPGPolyPackLite.meta
+
+# leftover from the web build
+/Data/
+# empty folder made by GitHub Desktop
+/Evil-Resident 3D GAME/
